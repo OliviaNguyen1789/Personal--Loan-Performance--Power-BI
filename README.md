@@ -7,7 +7,7 @@
 
 
 Author: [Olivia Nguyen]  
-Date: November 2024  
+Date: March 2025  
 Tools Used: Power BI 
 
 ---
@@ -23,12 +23,16 @@ V. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations
 ## 📌 Background & Overview
 
 ### 📖 What is this project about?
-The objective of this project is to analyze the manufacturing process of a bicycle manufacturer using the AdventureWorks database in Power BI. This involves ensuring timely product delivery and minimizing scrapped products. The findings will help optimize production efficiency and improve overall manufacturing performance.
+The objective of this project is to analyze a loan default dataset using Power BI to identify key factors contributing to defaults. This involves assessing borrower risk profiles based on attributes such as income, age, home ownership, and employment duration, as well as evaluating loan characteristics like loan grade, amount, interest rate, and duration. By examining historical default patterns and current loan status, the findings will help optimize lending strategies, improve risk management, and enhance overall loan portfolio performance.
   
 ### 👤 Who is this project for?   
-The insights gained will empower the following stakeholders to make informed strategic decisions and enhance manufacturing operations:
-- Data analysts & business analysts
-- Production managers
+
+The insights gained will empower the following stakeholders to make informed strategic decisions and enhance financial operations:
+- Financial Institutions: Assess borrowers’ ability to repay their debt on time, preventing the issuance of non-performing loans and optimizing lending policies.
+- Borrowers: Predict loan default risk to guide personal finance decisions, helping to prevent long-term negative financial consequences.
+- Other Stakeholders: Evaluate individuals' financial capacity before providing services, ensuring more informed decision-making.
+
+
 - Decision-makers & executives
 
 ### ❓ Business Questions:
