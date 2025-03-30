@@ -1,6 +1,6 @@
 
 
-<img width="1000" alt="Screen Shot 2025-03-16 at 10 50 09 PM" src="https://github.com/user-attachments/assets/e21bbb01-86e6-4f23-9c59-7a2b9d83ea01" />
+
 
 # Project Title: Loan Dataset - Loan-Default Prediction | Power-BI
 
@@ -32,31 +32,38 @@ The insights gained will empower the following stakeholders to make informed str
 - Borrowers: Predict loan default risk to guide personal finance decisions, helping to prevent long-term negative financial consequences.
 - Other Stakeholders: Evaluate individuals' financial capacity before providing services, ensuring more informed decision-making.
 
-
-- Decision-makers & executives
-
 ### ❓ Business Questions:
-- How efficient is the current manufacturing process?
-- What trends in production efficiency can be identified for optimization?
+- What are the key factors that contribute to loan defaults?
+- Which borrower segments have the highest default risk, and how can they be managed effectively?
 
 ## 📂 Dataset Description
 
 ### 🌐 Data Source
-- The Bicycle Manufacturer dataset is stored in a public Google BigQuery dataset named "adventureworks2019"
-- To access the dataset, we log in to your Google Cloud Platform, navigate to the BigQuery console and search the project "adventureworks2019".
+- The Loan Default dataset originates from Kaggle and can be accessed at:  https://kaggle.com/datasets/prakashraushan/loan-dataset/data
+- Size: 32,600 rows, 20columns
+- Format: .csv
 
-### 🔀 Data Modelling:
-  There are 5 tables that we will work on it.
+### 🔀 Table schema
+<details>
+<summary>Table: Churn Prediction </summary>  
 
-| Table                | Type                                                                                                                      |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Fact_Product         | Details of product sold or used in production.                                                                            |
-| Fact_Workorder       | Contains order details, including product ID, scrapped products quantity, due date, start date, and end date.             |
-| Dim_ScrapReason      | Reason for scrapped products.                                                                                             |
-| Dim_WorkOrderRouting | Lists only on-time and late orders. Details of location, actual order and delivery time for each work order and product.  |
-| Dim_Location         | Lists each stage in the production process.                                                                               |
+| Number | Variable name       | Definition                                                | Data Type |
+| ------ | ------------------- | --------------------------------------------------------- | --------- |
+| 1      | customer_id         | Unique identifier for each customer                       | Text      |
+| 2      | customer_age        | Age of the customer                                       | Text      |
+| 3      | customer_income     | Annual income of the customer                             | Number    |
+| 4      | home_ownership      | Annual income of the customer                             | Text      |
+| 5      | employment_duration | Duration of employment in months                          | Number    |
+| 6      | loan_intent         | Purpose of the loan                                       | Text      |
+| 7      | loan_grade          | Grade assigned to the loan                                | Text      |
+| 8      | loan_amnt           | Loan amount requested                                     | Number    |
+| 9      | loan_int_rate       | Interest rate of the loan                                 | Number    |
+| 10     | term_years          | Loan term in years                                        | Number    |
+| 11     | historical_default  |  Indicates if the customer has a history of default (Y/N) | Text      |
+| 12     | cred_hist_length    |  Length of the customer's credit history in years         | Number    |
+| 13     | Current_loan_status | Current status of the loan (DEFAULT, NO DEFAULT)          | Text      |
 
-   ![Schema_manufacturing](https://github.com/user-attachments/assets/0208da0f-b6ce-4ff8-bd7a-19f3b930ed09)
+</details>
 
 
 ## 🧠 Design Thinking Process
