@@ -40,7 +40,7 @@ The insights gained will empower the following stakeholders to make informed str
 
 ### 🌐 Data Source
 - The Loan Default dataset originates from Kaggle and can be accessed at:  https://kaggle.com/datasets/prakashraushan/loan-dataset/data
-- Size: 32,600 rows, 20columns
+- Size: 32,600 rows, 13 columns
 - Format: .csv
 
 ### 🔀 Table schema
