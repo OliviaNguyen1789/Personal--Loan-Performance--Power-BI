@@ -45,7 +45,7 @@ The insights gained will empower the following stakeholders to make informed str
 
 ### 🔀 Table schema
 <details>
-<summary>Table: Churn Prediction </summary>  
+<summary>Table: Loan dataset </summary>  
 
 | Number | Variable name       | Definition                                                | Data Type |
 | ------ | ------------------- | --------------------------------------------------------- | --------- |
