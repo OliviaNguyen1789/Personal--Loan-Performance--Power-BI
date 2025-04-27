@@ -23,19 +23,18 @@ V.[🧠 Design Thinking Process](#-design-thinking-process)
 ## 📌 Background & Overview
 
 ### 📖 What is this project about?
-The objective of this project is to analyze a loan default dataset using Power BI to identify key factors contributing to defaults. This involves assessing borrower risk profiles based on attributes such as income, age, home ownership, and employment duration, as well as evaluating loan characteristics like loan grade, amount, interest rate, and duration. By examining historical default patterns and current loan status, the findings will help optimize lending strategies, improve risk management, and enhance overall loan portfolio performance.
+The objective of this project is to develop a Personal Loan Portfolio Management Dashboard using Power BI to analyze loan performance, customer demographics, and portfolio risk. The analysis focuses on assessing borrower profiles based on attributes such as income, age, home ownership, and employment duration, as well as evaluating loan characteristics like loan grade, amount, interest rate, and duration. By examining current loan status and historical patterns, the dashboard provides insights to optimize lending strategies, enhance risk management, and improve overall loan portfolio performance through data-driven decision-making.
+
   
 ### 👤 Who is this project for?   
-
-The insights gained will empower the following stakeholders to make informed strategic decisions and enhance financial operations:
-- Financial Institutions: Assess borrowers’ ability to repay their debt on time, preventing the issuance of non-performing loans and optimizing lending policies.
+The insights gained from the Personal Loan Portfolio Management Dashboard will empower the following stakeholders to make informed strategic decisions and enhance financial operations:
+- Financial Institutions: Assess borrowers’ ability to repay their debt on time, preventing the issuance of non-performing loans and optimizing lending policies.They also use the dashboard to identify risk patterns, monitor loan grades, and manage portfolio risk.
 - Borrowers: Predict loan default risk to guide personal finance decisions, helping to prevent long-term negative financial consequences.
 - Other Stakeholders: Evaluate individuals' financial capacity before providing services, ensuring more informed decision-making.
 
 ### ❓ Business Questions:
-- What are the key factors that contribute to loan defaults?
-- Which borrower segments have the highest default risk, and how can they be managed effectively?
-
+- What is the distribution of loan status across the portfolio?
+- Which customer segments (by income, age, home ownership, employment duration) are more likely to default?
 
 ## 📊 Power BI Visualization
 ### Dashboard 1 Preview
