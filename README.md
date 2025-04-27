@@ -1,5 +1,5 @@
 
-
+![image](https://github.com/user-attachments/assets/dc4d2538-70a2-4259-868e-cdc46fe74080)
 
 
 # Project Title: Personal Loan Portfolio Management Dashboard| Power-BI
@@ -39,21 +39,29 @@ The insights gained from the Personal Loan Portfolio Management Dashboard will e
 ## 📊 Power BI Visualization
 ### Dashboard 1 Preview
 
-![image](https://github.com/user-attachments/assets/fbb380ad-45bd-4c05-b9e8-eece967989b8)
+![image](https://github.com/user-attachments/assets/d64b663b-04a4-4f31-8d53-a1950cc8f363)
 
+-🚀 **Loan Amount Distribution:** The majority of loans have relatively small amounts, with 90% of customers holding loans under $20,000.
+-🚀 **Loan Purpose:** Home improvement loans account for the lowest percentage (12%), while other loan purposes range from 16% to 20%.
+-🚀 **Loan Grade Distribution:** The bank primarily lends to borrowers with strong credit profiles, with 45% of the loan amount allocated to Grade A, 28% to Grade B, 15% to Grade C, 10% to Grade D, and 2% to Grade E borrowers.
+-🚀 **Loan Term:** The distribution of loan amounts is relatively consistent across short-term, medium-term, and long-term loans.
+-🚀 **Interest Rates:** Loans with higher credit grades (e.g., Grade A) typically have lower interest rates compared to those with lower grades (e.g., Grade D or E). Loans with higher amounts or longer terms tend to have higher interest rates.
+-🚀 **Debt-to-Income (DTI) Ratio**: 67% of loans are considered low-risk based on the DTI ratio, with only 4% classified as high or very high risk. Higher DTI ratios correlate with higher interest rates, reflecting the increased risk of default.
 
--🚀 Scrap rate:
+In summary, the bank favors low-risk borrowers, as seen through its focus on low DTI ratios and high loan grades. It also prioritizes loans with smaller amounts. To manage risk, the bank diversifies across loan terms, balancing short, medium, and long-term debts. High-risk loans—such as those with longer terms, lower credit grades, or larger amounts—are assigned higher interest rates to offset the increased risk of default.
 
 
 
 ### Dashboard 2 Preview
 
-![image](https://github.com/user-attachments/assets/f5fb094c-ca82-44f5-a081-dfe7c3991be6)
+![image](https://github.com/user-attachments/assets/0c1f8d89-8aac-40cb-a9e1-6fc3c1b628f1)
 
 - 🚀 
 
 ### Dashboard 3 Preview
-![image](https://github.com/user-attachments/assets/258c66be-67bf-48bc-bbef-9912b8517222)
+
+![image](https://github.com/user-attachments/assets/3feef028-433e-4773-87ad-940d447634aa)
+
 
 ## 🔎 Final Conclusion & Recommendations 
 
