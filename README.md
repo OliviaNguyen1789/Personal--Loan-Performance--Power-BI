@@ -2,7 +2,7 @@
 
 
 
-# Project Title: Loan Dataset - Loan-Default Prediction | Power-BI
+# Project Title: Personal Loan Portfolio Management Dashboard| Power-BI
 
 
 
@@ -14,10 +14,10 @@ Tools Used: Power BI
 
 ## 📑 Table of Contents  
 I. [📌 Background & Overview](#-background--overview)  
-II. [📂 Dataset Description](#-dataset-description)  
-III.[🧠 Design Thinking Process](#-design-thinking-process)  
-IV.[📊 Power BI Visualization](#-power-bi-visualization)  
-V. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+II.[📊 Power BI Visualization](#-power-bi-visualization)  
+III. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)  
+IV. [📂 Dataset Description](#-dataset-description)  
+V.[🧠 Design Thinking Process](#-design-thinking-process)  
 
 
 ## 📌 Background & Overview
@@ -35,6 +35,28 @@ The insights gained will empower the following stakeholders to make informed str
 ### ❓ Business Questions:
 - What are the key factors that contribute to loan defaults?
 - Which borrower segments have the highest default risk, and how can they be managed effectively?
+
+
+## 📊 Power BI Visualization
+### Dashboard 1 Preview
+
+![image](https://github.com/user-attachments/assets/fbb380ad-45bd-4c05-b9e8-eece967989b8)
+
+
+-🚀 Scrap rate:
+
+
+
+### Dashboard 2 Preview
+
+![image](https://github.com/user-attachments/assets/f5fb094c-ca82-44f5-a081-dfe7c3991be6)
+
+- 🚀 
+
+### Dashboard 3 Preview
+![image](https://github.com/user-attachments/assets/258c66be-67bf-48bc-bbef-9912b8517222)
+
+## 🔎 Final Conclusion & Recommendations 
 
 ## 📂 Dataset Description
 
@@ -65,43 +87,4 @@ The insights gained will empower the following stakeholders to make informed str
 
 </details>
 
-
-## 🧠 Design Thinking Process
-
-### 1️⃣ Empathize
-
-
-### 2️⃣ Define point of view
-
-
-
-### 3️⃣ Ideate
-
-
-
-### 4️⃣ Prototype and review  
-Next, I iterated through multiple cycles of prototyping and review to refine the final result, which will be presented in the following section as a dashboard.
-
-
-## 📊 Power BI Visualization
-### Dashboard 1 Preview
-
-
-
-
-**🚀 Scrap rate:**
-
-
-
-**🚀 Manufacturing Time:**
-
-
-### Dashboard 2 Preview
-
-
-- 🚀 
-
-
-
-## 🔎 Final Conclusion & Recommendations 
 
