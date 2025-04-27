@@ -17,7 +17,6 @@ I. [📌 Background & Overview](#-background--overview)
 II.[📊 Power BI Visualization](#-power-bi-visualization)  
 III. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)  
 IV. [📂 Dataset Description](#-dataset-description)  
-V.[🧠 Design Thinking Process](#-design-thinking-process)  
 
 
 ## 📌 Background & Overview
@@ -74,10 +73,9 @@ The insights gained from the Personal Loan Portfolio Management Dashboard will e
 
 The bank's lending strategy reveals that a significant portion of its customers are high-risk borrowers, characterized by low income (under $100,000 annually), short employment durations (less than 1 year), and a predominantly younger demographic with little to no homeownership. These factors, combined with limited financial stability, contribute to a higher likelihood of loan defaults. Interestingly, the bank also extends loans to customers with lower credit grades (D and E), as their average income tends to be higher than that of borrowers with better credit scores. 
 
-Despite the high-risk profile of most customers, the bank manages this risk by offering smaller loan amounts to ensure borrowers’ ability to repay. It diversifies its exposure across short, medium, and long-term loans to distribute the risk. The bank focuses on customers with low DTI ratios and prefers to avoid long-term debt. Additionally, interest rates are adjusted according to the risk profile: higher interest rates are applied to loans with larger amounts, longer terms, or lower credit grades, helping to offset the increased risk of default.
+The overall default rate is notably high at 21%. Default rates are higher for long-term loans, lower loan grades, and larger loan amounts. They are negatively correlated with employment duration, income, and DTI ratios. Debt consolidation loans exhibit the highest default rate (30%), while education loans (16%) and venture loans (14%) show the lowest default rates. Customers aged 41-50 have the lowest default rate at 17%, with default rates for other age groups ranging from 20% to 23%. Renters represent the majority of defaulting customers (75%), followed by mortgage holders at 23%, and homeowners at only 2%.
 
--🚀 The overall default rate is high at 21%. Customers aged 41-50 have the lowest default rate at 17%, while other age groups experience default rates ranging from 20% to 23%. Renters represent the majority of defaulting customers (75%), followed by mortgage holders at 23%, with homeowners accounting for only 2%.
-- 🚀 Default rates tend to rise with longer loan terms, lower loan grades, and higher loan amounts. They are negatively correlated with employment duration, income, and DTI ratios. Debt consolidation loans show the highest default rate at 30%, while education (16%) and venture loans (14%) have the lowest default rates. Additionally, defaulting customers tend to face higher interest rates.
+Despite the high-risk profile of most customers, the bank manages this risk by offering smaller loan amounts to ensure borrowers’ ability to repay. It diversifies its exposure across short, medium, and long-term loans to distribute the risk. The bank focuses on customers with low DTI ratios and prefers to avoid long-term debt. Additionally, interest rates are adjusted according to the risk profile: higher interest rates are applied to loans with larger amounts, longer terms, or lower credit grades, helping to offset the increased risk of default.
 
 ## 📂 Dataset Description
 
