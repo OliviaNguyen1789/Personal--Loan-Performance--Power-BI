@@ -56,7 +56,13 @@ In summary, the bank favors low-risk borrowers, as seen through its focus on low
 
 ![image](https://github.com/user-attachments/assets/0c1f8d89-8aac-40cb-a9e1-6fc3c1b628f1)
 
-- 🚀 
+- 🚀 **Home Ownership:** The majority of customers are either renting or have a mortgage (92%), with homeowners accounting for only 7%.    
+- 🚀 **Customer Income:** 79% of the loan amount is attributed to customers earning under $100,000 per year, while 20% comes from customers earning between $100,000 and $300,000.   
+- 🚀 **Age Distribution:** The majority of customers are under 30 years old, indicating a younger customer base.   
+- 🚀 **Employment Duration:** Surprisingly, 11% of the loan amount is from unemployed customers, while 81% comes from customers with less than 1 year of employment.   
+- 🚀 **Income:** Interestingly, customers with bad loan grades often have higher average incomes than those with good loan grades. Average income is generally lower for younger customers compared to older customers. Mortgage customers have the highest average income, followed by homeowners, and then renters.   
+
+In summary, the majority of borrowers are under 30 years old, have less than 1 year of employment, and earn less than $100,000 annually. The bank's customer base is predominantly composed of renters and mortgage holders (92%), with only 7% being homeowners. As a result, most loans are of lower amounts to ensure borrowers' ability to repay. Interestingly, the bank also extends loans to customers with loan grades D and E, as their average income tends to be higher than that of customers with higher loan grades.  
 
 ### Dashboard 3 Preview
 
