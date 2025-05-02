@@ -77,7 +77,7 @@ The overall default rate is notably high at 21%. Default rates are higher for lo
 Despite the high-risk profile of most customers, the bank manages this risk by offering smaller loan amounts to ensure borrowers’ ability to repay. It diversifies its exposure across short, medium, and long-term loans to distribute the risk. The bank focuses on customers with low DTI ratios and prefers to avoid long-term debt. Additionally, interest rates are adjusted according to the risk profile: higher interest rates are applied to loans with larger amounts, longer terms, or lower credit grades, helping to offset the increased risk of default.
 
 
-**Phan tich lai suat cho homeownership, age, income, emplyment duration.... + recommendation**
+**
 
 ## 📂 Dataset Description
 
