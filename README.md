@@ -22,9 +22,8 @@ IV. [📂 Dataset Description](#-dataset-description)
 ## 📌 Background & Overview
 
 ### 📖 What is this project about?
-The objective of this project is to develop a Personal Loan Portfolio Management Dashboard using Power BI to analyze loan performance, customer demographics, and portfolio risk. The analysis focuses on assessing borrower profiles based on attributes such as income, age, home ownership, and employment duration, as well as evaluating loan characteristics like loan grade, amount, interest rate, and duration. By examining current loan status and historical patterns, the dashboard provides insights to optimize lending strategies, enhance risk management, and improve overall loan portfolio performance through data-driven decision-making.
+This project focuses on developing a Personal Loan Portfolio Management Dashboard using Power BI to assess loan performance, borrower demographics, and portfolio risk. The analysis explores customer attributes such as income, age, home ownership, and employment duration, alongside loan details like grade, amount, interest rate, and term. By examining current loan status and historical patterns, the dashboard provides insights to optimize lending strategies, enhance risk management, and improve overall loan portfolio performance through data-driven decision-making.  
 
-  
 ### 👤 Who is this project for?   
 The insights gained from the Personal Loan Portfolio Management Dashboard will empower the following stakeholders to make informed strategic decisions and enhance financial operations:
 - Financial Institutions: Assess borrowers’ ability to repay their debt on time, preventing the issuance of non-performing loans and optimizing lending policies.They also use the dashboard to identify risk patterns, monitor loan grades, and manage portfolio risk.
