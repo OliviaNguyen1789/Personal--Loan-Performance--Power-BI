@@ -52,11 +52,11 @@ The insights gained from the Personal Loan Portfolio Management Dashboard will e
 
 ![image](https://github.com/user-attachments/assets/0c1f8d89-8aac-40cb-a9e1-6fc3c1b628f1)
 
-- 🚀 **Home Ownership:** The majority of customers are either renting or have a mortgage (92%), with homeowners accounting for only 7%.    
-- 🚀 **Customer Income:** 79% of the loan amount is attributed to customers earning under $100,000 per year, while 20% comes from customers earning between $100,000 and $300,000.   
-- 🚀 **Age Distribution:** The majority of customers are under 30 years old, indicating a younger customer base.   
-- 🚀 **Employment Duration:** Surprisingly, 11% of the loan amount is from unemployed customers, while 81% comes from customers with less than 1 year of employment.   
-- 🚀 **Income:** Interestingly, customers with bad loan grades often have higher average incomes than those with good loan grades. Average income is generally lower for younger customers compared to older customers. Mortgage customers have the highest average income, followed by homeowners, and then renters.   
+-🚀 **Home Ownership:** The majority of customers are either renting or have a mortgage (92%), with homeowners accounting for only 7%.  
+-🚀 **Customer Income:** 79% of the loan amount is attributed to customers earning under $100,000 per year, while 20% comes from customers earning between $100,000 and $300,000.  
+-🚀 **Age Distribution:** The majority of customers are under 30 years old, indicating a younger customer base.  
+-🚀 **Employment Duration:** Surprisingly, 11% of the loan amount is from unemployed customers, while 81% comes from customers with less than 1 year of employment.  
+-🚀 **Income:** Interestingly, customers with bad loan grades often have higher average incomes than those with good loan grades. Average income is generally lower for younger customers compared to older customers. Mortgage customers have the highest average income, followed by homeowners, and then renters.   
 
    
    
@@ -64,8 +64,8 @@ The insights gained from the Personal Loan Portfolio Management Dashboard will e
 
 ![image](https://github.com/user-attachments/assets/3feef028-433e-4773-87ad-940d447634aa)
 
--🚀 The overall default rate is high at 21%. Customers aged 41-50 have the lowest default rate at 17%, while other age groups experience default rates ranging from 20% to 23%. Renters represent the majority of defaulting customers (75%), followed by mortgage holders at 23%, with homeowners accounting for only 2%.
-- 🚀 Default rates tend to rise with longer loan terms, lower loan grades, and higher loan amounts. They are negatively correlated with employment duration, income, and DTI ratios. Debt consolidation loans show the highest default rate at 30%, while education (16%) and venture loans (14%) have the lowest default rates. Additionally, defaulting customers tend to face higher interest rates.
+-🚀 The overall default rate is high at 21%. Customers aged 41-50 have the lowest default rate at 17%, while other age groups experience default rates ranging from 20% to 23%. Renters represent the majority of defaulting customers (75%), followed by mortgage holders at 23%, with homeowners accounting for only 2%.  
+-🚀 Default rates tend to rise with longer loan terms, lower loan grades, and higher loan amounts. They are negatively correlated with employment duration, income, and DTI ratios. Debt consolidation loans show the highest default rate at 30%, while education (16%) and venture loans (14%) have the lowest default rates. Additionally, defaulting customers tend to face higher interest rates.
 
 
 ## 🔎 Final Conclusion & Recommendations 
@@ -76,8 +76,6 @@ The overall default rate is notably high at 21%. Default rates are higher for lo
 
 Despite the high-risk profile of most customers, the bank manages this risk by offering smaller loan amounts to ensure borrowers’ ability to repay. It diversifies its exposure across short, medium, and long-term loans to distribute the risk. The bank focuses on customers with low DTI ratios and prefers to avoid long-term debt. Additionally, interest rates are adjusted according to the risk profile: higher interest rates are applied to loans with larger amounts, longer terms, or lower credit grades, helping to offset the increased risk of default.
 
-
-**
 
 ## 📂 Dataset Description
 
